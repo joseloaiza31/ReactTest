@@ -1,0 +1,37 @@
+{
+    "tasks":[{
+
+            "title": "Investigar",
+            "name" : "Jose",
+            "des"  : "React",
+            "pri"  : "Alta"
+    },
+    
+    {
+
+        "title": "Estudiar",
+        "name" : "Federic",
+        "des"  : "Ciencias",
+        "pri"  : "Media"
+},
+
+{
+
+    "title": "Practicar",
+    "name" : "Anto",
+    "des"  : "Ingles",
+    "pri"  : "Baja"
+},
+{
+
+    "title": "Jugar",
+    "name" : "Todos",
+    "des"  : "League",
+    "pri"  : "Baja"
+}
+
+
+]
+
+
+}
